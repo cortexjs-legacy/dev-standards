@@ -9,9 +9,9 @@
 "translate_tabs_to_spaces": true,
 ```
 
-- 代码使用 **两个空格** 来缩进
+- 代码使用 **两个空格** 来缩进，包括 json 文件
 
-```json
+```js
 // The number of spaces a tab is considered equal to
 "tab_size": 2,
 ```
