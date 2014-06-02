@@ -16,5 +16,13 @@
 "tab_size": 2,
 ```
 
+## 函数定义
 
+函数不使用 `var` 来定义，比如
+
+```js
+var noop = function(){}; // 不要这么做
+
+function noop () {} // 推荐
+```
 
